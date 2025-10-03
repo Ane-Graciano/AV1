@@ -1,6 +1,6 @@
 export type TipoAeronave = "COMERCIAL" | "MILITAR"
 
-export default class RegistraAeronave{
+export default class Aeronave{
     public codigo:string
     public modelo: string
     public tipo: TipoAeronave
