@@ -1,0 +1,98 @@
+
+        Relatório da Aeronave:
+        ---------------------
+        Código: 2
+        Modelo: a
+        Tipo: 1
+        Capacidade: 20
+        Alcance: 1000
+
+        Peças:
+        - a | Tipo: 1 | Fornecedor: a | Status: 1
+
+        Testes:
+        - 1 | Resultado: 1
+
+        Etapas:
+        - montagem | Prazo: 12 dias | Status: 1 | Funcionários: ana
+
+        -----------------------
+        
+        Relatório da Aeronave:
+        ---------------------
+        Código: 3
+        Modelo: a
+        Tipo: 1
+        Capacidade: 10
+        Alcance: 10000
+
+        Peças:
+        - a | Tipo: 1 | Fornecedor: a | Status: 1
+
+        Testes:
+        - 1 | Resultado: 1
+
+        Etapas:
+        - montagem | Prazo: 12 dias | Status: 1 | Funcionários: ana
+
+        -----------------------
+        
+        Relatório da Aeronave:
+        ---------------------
+        Código: 1
+        Modelo: v
+        Tipo: 1
+        Capacidade: 1
+        Alcance: 1000
+
+        Peças:
+        - a | Tipo: 1 | Fornecedor: a | Status: 1
+
+        Testes:
+        - 1 | Resultado: 1
+
+        Etapas:
+        - montagem | Prazo: 12 dias | Status: 1 | Funcionários: ana
+
+        -----------------------
+        
+        Relatório da Aeronave:
+        ---------------------
+        Código: 1
+        Modelo: v
+        Tipo: 1
+        Capacidade: 1
+        Alcance: 1000
+
+        Peças:
+        - a | Tipo: 1 | Fornecedor: a | Status: 1
+
+        Testes:
+        - 1 | Resultado: 1
+
+        Etapas:
+        - montagem | Prazo: 12 dias | Status: 1 | Funcionários: ana
+
+        -----------------------
+        
+        Relatório da Aeronave:
+        ---------------------
+        Código: 4
+        Modelo: A
+        Tipo: 2
+        Capacidade: 20
+        Alcance: 30000
+
+        Peças:
+        - teste | Tipo: 1 | Fornecedor: gm | Status: 3
+- a | Tipo: 1 | Fornecedor: a | Status: 1
+
+        Testes:
+        - 1 | Resultado: 1
+- 1 | Resultado: 1
+
+        Etapas:
+        - montagem | Prazo: 12 dias | Status: 1 | Funcionários: ana
+
+        -----------------------
+        

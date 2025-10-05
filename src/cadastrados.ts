@@ -1,4 +1,5 @@
 import Aeronave from "./aeronave";
+import Etapa from "./etapa";
 import Funcionario from "./funcionario";
 import Pecas from "./peca";
 import Teste from "./teste";
@@ -8,12 +9,14 @@ export default class Cadastrados{
     public funcionarios_cadastradas: Array<Funcionario>
     public aeronave_cadastradas: Array<Aeronave>
     public testes_cadastradas: Array<Teste>
+    public etapas_cadastradas: Array<Etapa>
 
     constructor(){
         this.pecas_cadastradas = []
         this.funcionarios_cadastradas = []
         this.aeronave_cadastradas = []
         this.testes_cadastradas = []
+        this.etapas_cadastradas = []
     }
 
     getPecas(){
@@ -30,5 +33,9 @@ export default class Cadastrados{
 
     getTetes(){
         return this.testes_cadastradas
+    }
+
+    getEtapa(){
+        return this.etapas_cadastradas
     }
 }
